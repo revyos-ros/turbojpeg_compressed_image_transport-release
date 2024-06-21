@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/turbojpeg_compressed_image_transport-release
 tracks:
   humble:
     actions:
