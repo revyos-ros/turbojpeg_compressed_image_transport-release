@@ -1,3 +1,26 @@
+## turbojpeg_compressed_image_transport (jazzy) - 0.2.1-6
+
+The packages in the `turbojpeg_compressed_image_transport` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy turbojpeg_compressed_image_transport --override-release-repository-push-url git@github.com:revyos-ros/turbojpeg_compressed_image_transport-release` on `Fri, 21 Jun 2024 05:17:27 -0000`
+
+The `turbojpeg_compressed_image_transport` package was released.
+
+Version of package(s) in repository `turbojpeg_compressed_image_transport`:
+
+- upstream repository: https://github.com/wep21/turbojpeg_compressed_image_transport.git
+- release repository: https://github.com/revyos-ros/turbojpeg_compressed_image_transport-release.git
+- rosdistro version: `0.2.1-5`
+- old version: `0.2.1-5`
+- new version: `0.2.1-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turbojpeg_compressed_image_transport (rolling) - 0.2.1-3
 
 The packages in the `turbojpeg_compressed_image_transport` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling turbojpeg_compressed_image_transport` on `Tue, 11 Apr 2023 15:01:15 -0000`
